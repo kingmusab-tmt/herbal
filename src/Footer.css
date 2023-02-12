@@ -1,0 +1,80 @@
+.footer {
+  background-image: url(./hero.jpg);
+  color: #fff;
+  padding: 40px 0;
+}
+
+.footer-navbar {
+  justify-content: space-between;
+  padding: 0;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.footer-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.footer-social-links {
+  display: flex;
+}
+
+.footer-social-links a {
+  color: #fff;
+  font-weight: 600;
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.copyright,
+.designed-by {
+  text-align: center;
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 480px) {
+  .footer {
+    background-image: url(./hero.jpg);
+    color: #fff;
+    padding: 40px 0;
+  }
+
+  .footer-navbar {
+    justify-content: space-between;
+    padding: 0;
+    font-weight: 700;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+
+  .footer-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .footer-social-links {
+    display: flex;
+  }
+
+  .footer-social-links a {
+    color: #fff;
+    font-weight: 600;
+    font-size: 24px;
+    margin-right: 10px;
+  }
+
+  .copyright,
+  .designed-by {
+    text-align: center;
+    font-weight: 600;
+  }
+}

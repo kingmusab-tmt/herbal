@@ -1,0 +1,16 @@
+img {
+  width: 30%;
+  height: 30%;
+}
+.navbar-brand span {
+  font-size: 100%;
+  margin-left: 6px;
+  color: white;
+  font-weight: 700;
+}
+.logo {
+  margin-left: 20px;
+}
+.correct {
+  margin-right: 30px;
+}

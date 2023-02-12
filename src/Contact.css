@@ -1,0 +1,16 @@
+.contact {
+  margin-top: 20px;
+  color: green;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.submit {
+  margin-top: 10px;
+  width: 50%;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+Form.Label {
+  color: green;
+  font-weight: 500;
+}
