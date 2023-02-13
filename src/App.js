@@ -8,8 +8,11 @@ import Header from "./Header";
 import About from "./About";
 import Product from "./Product";
 import Faq from "./Faq";
+import Testimonial from "./Testimonial";
 import ContactUs from "./ContactUs";
 import Footer from "./Footer";
+import { testimonials } from "./Testimonials";
+import News from "./News";
 
 function App() {
   return (
@@ -20,9 +23,11 @@ function App() {
         <Navbar />
       </BrowserRouter>
       <Header />
+      <News />
       <About />
       <Product />
       <Faq />
+      <Testimonial testimonials={testimonials} />
       <ContactUs />
       <Footer />
     </div>

@@ -20,11 +20,11 @@ const Footer = () => {
             <span>Ijere Herbal Mixture</span>
           </Navbar.Brand>
           <Nav className="ml-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#about">About</Nav.Link>
-            <Nav.Link href="#product">Product</Nav.Link>
-            <Nav.Link href="#faq">FAQ</Nav.Link>
-            <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav.Link href="/#Home">Home</Nav.Link>
+            <Nav.Link href="/#About">About</Nav.Link>
+            <Nav.Link href="/#Product">Product</Nav.Link>
+            <Nav.Link href="/#Faq">FAQ</Nav.Link>
+            <Nav.Link href="/#ContactUs">Contact</Nav.Link>
           </Nav>
         </Navbar>
         <div className="footer-info">
@@ -56,7 +56,10 @@ const Footer = () => {
           SERVICES LTD
         </p>
         <p className="designed-by">
-          Designed by Triple Multipurpose Technology
+          Designed by{" "}
+          <a href="https://triplemultipurposetechnology.com">
+            Triple Multipurpose Technology
+          </a>
         </p>
       </Container>
     </footer>

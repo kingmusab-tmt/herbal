@@ -16,7 +16,7 @@ import heroimg from "./img/hero-img.png";
 const Header = () => {
   return (
     <header>
-      <div className="header-scrolling-images" id="Home">
+      <div className="header container-fluid" id="Home">
         <Carousel fade className="edit">
           <Carousel.Item interval={1000}>
             <div className="img-gradient">
