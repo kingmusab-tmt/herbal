@@ -11,7 +11,7 @@ const ContactUs = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     window.open(
-      `https://api.whatsapp.com/send?phone=+2347065591971&text=Hello my Name is ${name}%0AAnd my Email is ${email}%0A${message}`
+      `https://api.whatsapp.com/send?phone=+2347038373573&text=Hello my Name is ${name}%0AAnd my Email is ${email}%0A${message}`
     );
   };
 

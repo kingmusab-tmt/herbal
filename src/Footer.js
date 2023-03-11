@@ -34,7 +34,7 @@ const Footer = () => {
             <br />
             <br />4 AGBOR CLOSE AJAO ESTATE OFF OSOLO WAY, LAGOS STATE NIGERIA
             <br />
-            +2348128993937, +2348166293177
+            Whatsapp: +2347038373573, Call: +2348166293177
           </p>
           <div className="footer-social-links">
             <a href="https://www.facebook.com/profile.php?id=100063795795537">
