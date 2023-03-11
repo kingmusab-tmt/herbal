@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76ccd212.css",
+    "main.js": "/static/js/main.4124df76.js",
+    "static/media/product1.jpg": "/static/media/product1.1693ac3520dfcbb5361e.jpg",
+    "static/media/inflamation.jpg": "/static/media/inflamation.d8b0cdc288c1e5be9ff4.jpg",
+    "static/media/product2.jpg": "/static/media/product2.c4958d4d74977387d1aa.jpg",
+    "static/media/product3.jpg": "/static/media/product3.afea58575dafc1a76b2d.jpg",
+    "static/media/hero.jpg": "/static/media/hero.17d9d93a542af17c5a99.jpg",
+    "static/media/constipation.jpg": "/static/media/constipation.679b376e2f6fd8835b45.jpg",
+    "static/media/hero-img.png": "/static/media/hero-img.01ae6d7851d7e58fb951.png",
+    "static/media/inflation.jpg": "/static/media/inflation.f5063308e7c32155d679.jpg",
+    "static/media/info-bg.jpg": "/static/media/info-bg.b1966841e6bb8a051aa5.jpg",
+    "static/media/bg-image.jpg": "/static/media/bg-image.88089d65592e3315b7bd.jpg",
+    "static/media/Arthritis.jpg": "/static/media/Arthritis.d6530e4628ec9b1b793d.jpg",
+    "static/media/constipation3.jpg": "/static/media/constipation3.1345ba1412bf20a9461b.jpg",
+    "static/media/EDEMA3.jpg": "/static/media/EDEMA3.fb8e1d230826328a61bc.jpg",
+    "static/media/ulcer3.jpg": "/static/media/ulcer3.ca69aefa8e49bb97bb57.jpg",
+    "static/media/ARTHRITIS3.jpg": "/static/media/ARTHRITIS3.acef1b13f5c71aacb83a.jpg",
+    "static/media/EDEMA2.jpg": "/static/media/EDEMA2.f6c58f1902d9bcef3364.jpg",
+    "static/media/ulcer5.jpg": "/static/media/ulcer5.0bb6be40f3d5a14f38a2.jpg",
+    "index.html": "/index.html",
+    "main.76ccd212.css.map": "/static/css/main.76ccd212.css.map",
+    "main.4124df76.js.map": "/static/js/main.4124df76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ccd212.css",
+    "static/js/main.4124df76.js"
+  ]
+}
