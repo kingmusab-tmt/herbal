@@ -1,1 +1,5 @@
-Designed by Triple Multipurpose Technology with Bootstrap 5 and React Bootstap
+Developed using 
+- React
+- Bootsrap 5
+- JavaScript
+
